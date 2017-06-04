@@ -1,0 +1,7 @@
+/home/wjg/projects/FeatureMethod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wjg/projects/FeatureMethod/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wjg/projects/FeatureMethod/cmake-build-debug/CMakeFiles/pose_estimation_3d3d.dir
+/home/wjg/projects/FeatureMethod/cmake-build-debug/CMakeFiles/pose_estimation_3d2d.dir
+/home/wjg/projects/FeatureMethod/cmake-build-debug/CMakeFiles/pose_estimation_2d2d.dir
+/home/wjg/projects/FeatureMethod/cmake-build-debug/CMakeFiles/triangulation.dir
+/home/wjg/projects/FeatureMethod/cmake-build-debug/CMakeFiles/feature_extraction.dir

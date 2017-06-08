@@ -205,7 +205,7 @@ void triangulation (
     for ( int i=0; i<pts_4d.cols; i++ )
     {
         Mat x = pts_4d.col(i);
-        x /= x.at<float>(3,0); // 归一化
+        x /= x.at<float>(3,0); // 归一化   //金戈大王注：此处的归一化是指从齐次坐标变换到非齐次坐标。而不是变换到归一化平面。
         Point3d p (
             x.at<float>(0,0), 
             x.at<float>(1,0), 
